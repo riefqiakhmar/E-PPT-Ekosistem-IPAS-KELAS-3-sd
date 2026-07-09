@@ -1,0 +1,6 @@
+{
+  "name": "E-PPT Interaktif Ekosistem IPAS Kelas 3 SD",
+  "description": "Media pembelajaran interaktif IPAS Kelas 3 SD mengenai Ekosistem dan Lingkungan Sekitar dengan navigasi, kuis interaktif, game pengelompokan biotik & abiotik, serta efek suara ceria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
